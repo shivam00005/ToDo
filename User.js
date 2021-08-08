@@ -40,7 +40,7 @@ auth.onAuthStateChanged(user=>{
     
   }else{
     console.log('need to login ');
-    window.location= 'Login.html';
+    window.location = 'index.html';
   }
 });
 
