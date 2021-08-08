@@ -128,7 +128,7 @@ form.addEventListener('submit', e => {
 function logout(){
   auth.signOut();
   
-  window.location= 'index.html';
+  window.location = 'index.html';
 }
 
 // realtime listners
