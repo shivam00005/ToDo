@@ -32,7 +32,7 @@ It's a static website which can be tested and edited using any IDE.
 
 For vscode
 
-# INSTALL
+ INSTALL
 
 [ Extension: GoLive ]
 
