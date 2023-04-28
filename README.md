@@ -12,11 +12,15 @@ Fore creates a personal environment this website required users for one time to 
 
 userID is further used to separate one user’s data from another user. Local storage stores all data and separate them according to UserID. this task manageer keep track of all the assigned task and which can be further deleted by user once completed
 
-## :camera: screenshots
+## :camera: Screenshots
 
-<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/signup-page.png" alt="signup page">
-<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/login-page.png" alt="login page" >
-<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/home-page.png" alt="home page" >
+<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/home.png" alt="home page">
+
+<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/added-task.png" alt="task page" >
+
+<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/login.png" alt="login page" >
+
+<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/register.png" alt="register page" >
 
 
 ## :computer: Demo
