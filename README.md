@@ -16,11 +16,11 @@ userID is further used to separate one user’s data from another user. Local st
 
 <img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/home.png" alt="home page">
 
-<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/added-task.png" alt="task page" >
-
 <img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/login.png" alt="login page" >
 
 <img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/register.png" alt="register page" >
+
+<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/added-task.png" alt="task page" >
 
 
 ## :computer: Demo
