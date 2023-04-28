@@ -1,8 +1,8 @@
-# Task Manager
+# :memo: Task Manager
 
 This website is coded in JavaScript, Html and CSS3.
 
-## How It Works
+## :information_desk_person: How It Works
 
 Fore creates a personal environment this website required users for one time to create
 
@@ -10,15 +10,28 @@ Fore creates a personal environment this website required users for one time to 
  UserID and Password
 ```
 
-userID is further used to separate one user’s data from another user.
+userID is further used to separate one user’s data from another user. Local storage stores all data and separate them according to UserID. this task manageer keep track of all the assigned task and which can be further deleted by user once completed
 
-Local storage stores all data and separate them according to UserID
+## :camera: screenshots
 
-## Installation
+<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/signup-page.png" alt="signup page">
+<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/login-page.png" alt="login page" >
+<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/home-page.png" alt="home page" >
 
-Download All Code from Repository.
 
-[ Place all downloaded code in one folder and then open that in any IDE ]
+## :computer: Demo
+
+here is the live link to visit Task manager website : https://shivam00005.github.io/ToDo.github.io/
+
+## :wrench: Installation
+
+clone the repository
+
+```bash
+  git clone https://github.com/shivam00005/ToDo.github.io
+```
+
+[ open cloned repo in any IDE ]
 
 It's a static website which can be tested and edited using any IDE.
 
@@ -40,7 +53,7 @@ Then open the index.html file and click on GoLive.
 
 The website would be previewed on the local host.
 
-## Deployment
+## :satellite: Deployment
 
 To deploy this project run
 
@@ -72,6 +85,18 @@ All website deploying sites have their file Manager through which developers can
 
 Suggested FTP (file transfer protocol)
 
-# File Zilla
+# :file_folder: File Zilla
 
 It is easy and quick transfers files to the live Domain server.
+
+## :email:Feedback
+
+If you have any feedback, please reach out to us at sharmn6395960@gmail.com
+
+
+## :scroll:License
+
+Copyright (c) 2021 Shivam Sharma
+
+Licensed under the MIT License, available here: https://github.com/shivam00005/ToDo.github.io/blob/main/LICENSE
+
