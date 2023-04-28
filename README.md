@@ -85,7 +85,7 @@ All website deploying sites have their file Manager through which developers can
 
 Suggested FTP (file transfer protocol)
 
-# :file_folder: File Zilla
+## :file_folder: File Zilla
 
 It is easy and quick transfers files to the live Domain server.
 
